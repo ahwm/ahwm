@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ahwm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahwm&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahwm's GitHub stats](https://github-stats-delta-ecru.vercel.app/api?username=ahwm&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ahwm/ahwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
